@@ -7,4 +7,5 @@
 ## Links:
 - Slack Team name: kaggle_collab
 - DS Bowl home-page: http://www.datasciencebowl.com/
-- Trello: https://trello.com/b/wnwIsikF/2017-data-science-bowl
+- Kaggle competition home-page: https://www.kaggle.com/c/data-science-bowl-2017
+- Trello board: https://trello.com/b/wnwIsikF/2017-data-science-bowl
